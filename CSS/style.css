@@ -93,4 +93,13 @@ body {
 }
 .full {
   text-align: justify;
+  font-weight: 500;
+}
+.name p span {
+  color: #EAEFF2;
+  font-style: italic;
+}
+.name p {
+  font-weight: 700;
+  color: #00E0D4;
 }
