@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,700;1,500&family=Shizuru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,700;1,400;1,500&display=swap');
 * {
   font-family: 'Roboto', sans-serif;
   padding: 0;
@@ -122,4 +122,20 @@ body {
 .rule {
   color: #FF4500;
   height: 15px;
+  border: 1px solid #FF4500;
+}
+.grow {
+  font-weight: 400;
+  font-style: italic;
+  color: #EAEFF2;
+}
+.rise button {
+  border: none;
+  background-color: rgba(255, 69, 0, 0.3);
+  border-radius: 20px;
+  color: #EAEFF2;
+  font-weight: 600;
+}
+.rise button:hover {
+  background-color: #FF4500;
 }
