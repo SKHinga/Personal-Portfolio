@@ -139,3 +139,12 @@ body {
 .rise button:hover {
   background-color: #FF4500;
 }
+.aggressive {
+  background-color: #00E0D4;
+  font-weight: 700;
+}
+.call {
+  color: #EAEFF2;
+  font-weight: 500;
+  font-style: italic;
+}
