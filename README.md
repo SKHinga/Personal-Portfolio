@@ -1,4 +1,5 @@
 # SAMUEL HINGA PORTFOLIO
+![Project Design](Assets/Figma.png)
 #### The website gives a brief overview of whom I am, Current version dates to 27th February 2022.
 #### By **SAMUEL HINGA**
 ## Description
