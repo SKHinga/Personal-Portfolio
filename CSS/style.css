@@ -249,3 +249,16 @@ body {
   color: #00E0D4;
   
 }
+.download-btn {
+  text-decoration: none;
+  padding: 5px 10px;
+  background-color: rgba(255, 69, 0, 0.3);
+  border: none;
+  border-radius: 5px;
+  color: #EAEFF2;
+  font-weight: bold;
+}
+.download-btn:hover {
+  background: #FF4500;
+  color: #EAEFF2;
+}
