@@ -178,3 +178,45 @@ body {
 .image_icons a ion-icon{
   color: #EAEFF2;
 }
+.tact input {
+  padding-right: 200px;
+  background-color: #C4C4C4;
+}
+.tact label {
+  color: #EAEFF2;
+  font-size: larger;
+  font-weight: 400;
+  font-style: italic;
+}
+.ject input {
+  width: 82%;
+  margin: auto;
+  background-color: #C4C4C4;
+}
+.ject label {
+  margin-left: 120px;
+  color: #EAEFF2;
+  font-size: larger;
+  font-weight: 400;
+  font-style: italic;
+}
+.message input{
+  padding-bottom: 300px;
+}
+.mail {
+  width: 82%;
+  margin: auto;
+  text-align: end;
+}
+.mail button {
+  border: none;
+  background-color: rgba(255, 69, 0, 0.3);
+  border-radius: 20px;
+  color: #EAEFF2;
+  font-weight: 600;
+  padding: 8px 5px;
+  text-align: center;
+}
+.mail button:hover {
+  background-color: #FF4500;
+}
