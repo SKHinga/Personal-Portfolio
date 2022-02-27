@@ -179,7 +179,8 @@ body {
   color: #EAEFF2;
 }
 .tact input {
-  padding-right: 200px;
+  width: 32vw;
+  /* padding-right: 200px; */
   background-color: #C4C4C4;
 }
 .tact label {
@@ -236,7 +237,7 @@ body {
 .back::before {
   content: '';
   display: block;
-  width: 1288px;
+  width: 96vw;
   height: 2px;
   background: #FF4500;
   position: relative;
