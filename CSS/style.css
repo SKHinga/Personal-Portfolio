@@ -6,6 +6,11 @@
 }
 body {
   background-color: #000000;
+  color: #EAEFF2;
+}
+.light-mode {
+  background-color: #EAEFF2;
+  color: #000000;
 }
 .nav ul {
   list-style: none;
@@ -261,4 +266,9 @@ body {
 .download-btn:hover {
   background: #FF4500;
   color: #EAEFF2;
+}
+.area {
+  /* margin-left: 120px; */
+  background-color: #C4C4C4;
+  border-radius: 6px;
 }
