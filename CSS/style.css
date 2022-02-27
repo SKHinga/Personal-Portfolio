@@ -242,3 +242,9 @@ body {
   position: relative;
   top: 22px;
 }
+.foot p {
+  font-weight: 500;
+  font-style: italic;
+  color: #00E0D4;
+  
+}
