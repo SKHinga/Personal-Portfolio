@@ -38,9 +38,9 @@ body {
   color: #EAEFF2;
   font-family: Roboto, Arial, sans-serif;
   height: 70vmin;
-  left: 25%;
+  left: 30%;
   position: relative;
-  top: 300px;
+  top: 20em;
   width: 100vmin;
   transform: translate(-50%, -50%);
 }
