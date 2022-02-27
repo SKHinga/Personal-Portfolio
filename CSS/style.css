@@ -40,7 +40,7 @@ body {
   height: 70vmin;
   left: 30%;
   position: relative;
-  top: 20em;
+  top: 22em;
   width: 100vmin;
   transform: translate(-50%, -50%);
 }
@@ -198,6 +198,7 @@ body {
   width: 82%;
   margin: auto;
   background-color: #C4C4C4;
+  color: #00E0D4;
 }
 .ject label {
   margin-left: 120px;
@@ -271,4 +272,16 @@ body {
   /* margin-left: 120px; */
   background-color: #C4C4C4;
   border-radius: 6px;
+}
+.tact input::placeholder {
+  color: #000000;
+  font-weight: 700;
+}
+.ject input::placeholder {
+  color: #000000;
+  font-weight: 700;
+}
+.message center textarea::placeholder {
+  color: #000000;
+  font-weight: 700;
 }
