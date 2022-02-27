@@ -220,3 +220,25 @@ body {
 .mail button:hover {
   background-color: #FF4500;
 }
+.back {
+  text-align: end;
+}
+.back a ion-icon {
+  color: #EAEFF2;
+  background-color: #FF4500;
+  padding: 10px;
+  border-radius: 15px;
+  font-size: 20px;
+}
+.back a ion-icon:hover {
+  background-color: rgba(255, 69, 0, 0.3);
+}
+.back::before {
+  content: '';
+  display: block;
+  width: 1288px;
+  height: 2px;
+  background: #FF4500;
+  position: relative;
+  top: 22px;
+}
