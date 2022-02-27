@@ -2,20 +2,22 @@
 #### The website gives a brief overview of whom I am, Current version dates to 27th February 2022.
 #### By **SAMUEL HINGA**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This web app contains my personal information and my level of expertise. Addition one can download my CV and get in touch with me.
+## Design
+The web app was designed using figma and one can click [here](https://www.figma.com/file/KnP5o6cL8Qkjiqeiw0gS3N/Portfolio?node-id=2%3A2) to view the it.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* Hurp on to your browser,
+* type the link,
+* which will take you to the landing page,
+* scroll over my portfolio,
+* contact me on the contact me section to get intouch.
+The web app works perfectly and is independent of external sources. The site is well designed and is self-explanatory. To view my cv, click on the download button.For the perfect user experience, one can switch between light and dark mode.
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+The app currently runs perfectly and has no known bugs.
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+The web app has incorporated HTML, CSS and JavaScript.
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+To add on the code, inform me of any bugs, or reach out to me generally, one can contact me [here](mailto:samuelkinuthia700@gmail.com)
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+*The code is open source and under MIT license*
+Copyright (c) 2022 **Samuel Hinga**
