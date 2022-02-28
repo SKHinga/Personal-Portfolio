@@ -65,7 +65,7 @@ body {
   top: 0;
 }
 .animated-title > div.text-top div {
-  animation: showTopText 1s;
+  animation: showTopText 2s;
   animation-delay: 0.8s;
   animation-fill-mode: forwards;
   bottom: 0;
@@ -78,7 +78,7 @@ body {
   bottom: 0;
 }
 .animated-title > div.text-bottom div {
-  animation: showBottomText 0.5s;
+  animation: showBottomText 4s cubic-bezier(1,-0.68,0,1.67);
   animation-delay: 1.75s;
   animation-fill-mode: forwards;
   top: 0;
