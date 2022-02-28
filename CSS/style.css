@@ -187,6 +187,7 @@ body {
   width: 32vw;
   /* padding-right: 200px; */
   background-color: #C4C4C4;
+  color: #000000;
 }
 .tact label {
   color: #EAEFF2;
@@ -198,7 +199,7 @@ body {
   width: 82%;
   margin: auto;
   background-color: #C4C4C4;
-  color: #00E0D4;
+  color: #000000;
 }
 .ject label {
   margin-left: 120px;
@@ -209,6 +210,8 @@ body {
 }
 .message input{
   padding-bottom: 300px;
+  color: #000000;
+  
 }
 .mail {
   width: 82%;
@@ -275,13 +278,17 @@ body {
 }
 .tact input::placeholder {
   color: #000000;
-  font-weight: 700;
+  font-weight: 500;
+  font-style: italic;
 }
 .ject input::placeholder {
   color: #000000;
-  font-weight: 700;
+  font-weight: 500;
+  font-style: italic;
 }
 .message center textarea::placeholder {
   color: #000000;
-  font-weight: 700;
+  font-weight: 500;
+  font-style: italic;
+  padding: 7px;
 }
